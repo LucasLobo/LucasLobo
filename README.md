@@ -1,18 +1,34 @@
 ## Welcome to my profile! 👋
 
-Hi! I'm Lucas and I just finished my master's degree in Software Engineering at Instituto Superior Técnico (Lisbon, Portugal). I specialized in data processing and analysis, and I have taken multiple courses on distributed systems and software architecture. I also have a bachelor's in the same field and University, where I received various academic merit diplomas.
+I'm a Software Engineer whose passions are software architecture, cloud computing, and microservices. I currently work at OLX Group as a Junior Backend Engineer and I mainly use Go, AWS, and Terraform in my daily work.
 
-These are technologies and languages I'm most familiar with:
+I have used many different technologies over the years, which gives me a pretty good insight into many areas, such as backend, architecture, data, frontend, and more.
 
-### Technologies
+### Current Techstack (Cloud/Microservices)
+![Go](https://img.shields.io/badge/-Go-a?logoColor=white&logo=Go&color=00ADD8)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-a?logoColor=white&logo=Amazon%20AWS&color=232F3E)
+![MariaDB](https://img.shields.io/badge/-MariaDB-a?logoColor=white&logo=MariaDB&color=003545)
 ![Docker](https://img.shields.io/badge/-Docker-a?logoColor=white&logo=Docker&color=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-a?logoColor=white&logo=Terraform&color=7B42BC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-a?logoColor=white&logo=Kubernetes&color=3970e4)
+![New Relic](https://img.shields.io/badge/-New%20Relic-a?logoColor=white&logo=new-relic&color=008C99)
+![Kibana](https://img.shields.io/badge/-Kibana-a?logoColor=white&logo=kibana&color=005571)
+
+### AWS Stack
+
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-a?logoColor=white&logo=aws-lambda&color=FF9900)
+![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-a?logoColor=white&logo=Amazon-dynamodb&color=4053D6)
+![SQS](https://img.shields.io/badge/-AWS%20SQS-a?logoColor=white&logo=amazon-sqs&color=FF4F8B)
+![EC2](https://img.shields.io/badge/-Amazon%20EC2-a?logoColor=white&logo=Amazon-ec2&color=FF9900)
+![EventBridge](https://img.shields.io/badge/-Amazon%20EventBridge-a?logoColor=white&logo=&color=FF4F8B)
+![S3](https://img.shields.io/badge/-Amazon%20S3-a?logoColor=white&logo=amazon-s3&color=569A31)
+![CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-a?logoColor=white&logo=amazon-cloudwatch&color=FF4F8B)
+<sup>... And more!</sup>
+
 
 ### Languages
 ![Go](https://img.shields.io/badge/-Go-a?logoColor=white&logo=Go&color=00ADD8)
-![Java](https://img.shields.io/badge/-Java-a?logoColor=white&logo=Java&color=007396)
+![Java](https://img.shields.io/badge/-Java-a?logoColor=white&logo=OpenJDK&color=007396)
 ![C#](https://img.shields.io/badge/-C%23-a?logoColor=white&logo=C%20Sharp&color=239120)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a?logoColor=white&logo=JavaScript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-a?logoColor=white&logo=TypeScript&color=3178C6)
@@ -22,9 +38,10 @@ These are technologies and languages I'm most familiar with:
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-a?logoColor=white&logo=PostgreSQL&color=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-a?logoColor=white&logo=MySQL&color=4479A1)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-a?logoColor=white&logo=MariaDB&color=003545)
+![MySQL](https://img.shields.io/badge/-MySQL-a?logoColor=white&logo=MySQL&color=4479A1)
 ![Microsoft SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-a?logoColor=white&logo=Microsoft%20SQL%20Server&color=CC2927)
+![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-a?logoColor=white&logo=Amazon-dynamodb&color=4053D6)
 ![Firestore](https://img.shields.io/badge/-Firestore-a?logoColor=white&logo=Firebase&color=FFCA28)
 
 ### Frontend Frameworks
