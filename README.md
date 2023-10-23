@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-I'm a Software Engineer whose passions are software architecture, cloud computing, and microservices. I currently work at OLX Group as a Junior Backend Engineer and I mainly use Go, AWS, and Terraform in my daily work.
+I'm a Software Engineer whose passions are software architecture, cloud computing, and microservices. I currently work at OLX Group as a Backend Engineer and I mainly use Go, AWS, and Terraform in my daily work.
 
 I have used many different technologies over the years, which gives me a pretty good insight into many areas, such as backend, architecture, data, frontend, and more.
 
