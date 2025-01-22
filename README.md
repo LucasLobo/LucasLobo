@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-I'm a backend engineer at Wellhub with four years of experience, specializing in cloud development, software architecture, and microservices. With a strong foundation in Go and AWS, I've worked on large-scale projects, including systems serving millions of users, gaining valuable experience in building scalable and efficient systems.
+I'm a senior software engineer at Wellhub with more than five years of experience, specializing in cloud development, software architecture, and microservices. With a strong foundation in Go and AWS, I've worked on large-scale projects, including services serving millions of users, gaining valuable experience in building scalable and efficient systems.
 
 ### Current Techstack (Cloud/Microservices)
 ![Go](https://img.shields.io/badge/-Go-a?logoColor=white&logo=Go&color=00ADD8&style=for-the-badge)
